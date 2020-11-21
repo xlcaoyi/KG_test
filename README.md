@@ -7,6 +7,6 @@ code for paper [King's Glory Level Recognition]
 
 ## Contact
 If you find or have any probleme about the code, contact
-- xlcaoyi@gmail.com
+- x-l-cy@qq.com
 
 or leave a message for me
